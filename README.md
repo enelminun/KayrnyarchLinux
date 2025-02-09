@@ -21,8 +21,4 @@ It is strongly suggested to <b>do not use this Linux distribution as daily drive
 
 ### Will there be other DEs spins?
 - KDE Plasma
-
-However in order to make them good, **we need contributions**. If you are interested in helping us, please take a look at [CONTRIBUTING.md](https://github.com/NyarchLinux/NyarchLinux/blob/main/CONTRIBUTING.md).
-<br />
-Please note that we want to make the different spins as coherent as possible, so applications have to follow their desktop philosophy if possible. <br />
-For example, in the Gnome spin Komikku, a GTK application to read mangas, is preinstalled. In a KDE Plasma spin, if there is a similar application written using QT, it should be included.
+- XFCE4
