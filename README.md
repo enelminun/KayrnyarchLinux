@@ -12,7 +12,7 @@ Based on [Nyarch Linux](https://github.com/NyarchLinux/)
 
 [![](https://dcbadge.vercel.app/api/server/xuw6BNXXE7)](https://discord.gg/xuw6BNXXE7)
 
-   <h3><b>Nyarch Linux</b> is a Linux distribution <b>made for weebs</b>, based on ArchLinux and EzArcher.</h3><br />
+   <h3><b>Kayrnyarch Linux</b> is a Linux distribution <b>made for weebs</b>, based on NyarchLinux.</h3><br />
 
 </div>
 
