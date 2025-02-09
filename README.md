@@ -5,10 +5,8 @@
 Based on [Nyarch Linux](https://github.com/NyarchLinux/)
 
 ![](https://img.shields.io/github/v/release/NyarchLinux/NyarchLinux?include_prereleases&label=Nyarch%20Release&style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/NyarchLinux/NyarchLinux?style=for-the-badge&color=%23daaa3f)
-![](https://img.shields.io/github/license/nyarchlinux/nyarchlinux?color=green&style=for-the-badge)
-[![](https://img.shields.io/badge/Website-nyarchlinux.moe-%23e32b6b?style=for-the-badge&logoColor=C689C6)](https://nyarchlinux.moe)
-[![](https://img.shields.io/badge/Wiki-wiki.nyarchlinux.moe-%234051b5?style=for-the-badge)](https://wiki.nyarchlinux.moe)
+![GitHub Repo stars](https://img.shields.io/github/stars/KayrnyarchLinux/KayrnyarchLinux?style=for-the-badge&color=%23daaa3f)
+![](https://img.shields.io/github/license/kayrnyarchlinux/kayrnyarchlinux?color=green&style=for-the-badge)
 
 [![](https://dcbadge.vercel.app/api/server/xuw6BNXXE7)](https://discord.gg/xuw6BNXXE7)
 
