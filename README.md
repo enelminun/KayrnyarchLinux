@@ -4,11 +4,7 @@
 
 Based on [Nyarch Linux](https://github.com/NyarchLinux/)
 
-![](https://img.shields.io/github/v/release/NyarchLinux/KayrnyarchLinux?include_prereleases&label=KayrnyarchLinux%20Release&style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/KayrnyarchLinux/KayrnyarchLinux?style=for-the-badge&color=%23daaa3f)
-![](https://img.shields.io/github/license/KayrnyarchLinux/KayrnyarchLinux?color=green&style=for-the-badge)
-
-[![](https://dcbadge.vercel.app/api/server/xuw6BNXXE7)](https://discord.gg/xuw6BNXXE7)
+[![](https://dcbadge.vercel.app/api/server/xuw6BNXXE7)](https://discord.gg/####################)
 
    <h3><b>Kayrnyarch Linux</b> is a Linux distribution <b>made for weebs</b>, based on NyarchLinux.</h3><br />
 
