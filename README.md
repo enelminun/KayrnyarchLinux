@@ -2,7 +2,7 @@
 <div align="center">
    <img src="https://user-images.githubusercontent.com/67018178/219306815-448eea25-d0f3-4512-8d4f-f8167e21841a.png" width="300px" style="margin:auto;"/>
 
-Based on: https://github.com/NyarchLinux/
+Based on [Nyarch Linux](https://github.com/NyarchLinux/)
 
 ![](https://img.shields.io/github/v/release/NyarchLinux/NyarchLinux?include_prereleases&label=Nyarch%20Release&style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/NyarchLinux/NyarchLinux?style=for-the-badge&color=%23daaa3f)
@@ -21,4 +21,5 @@ It is strongly suggested to <b>do not use this Linux distribution as daily drive
 
 ### Will there be other DEs spins?
 - KDE Plasma
+- Gnome
 - XFCE4
